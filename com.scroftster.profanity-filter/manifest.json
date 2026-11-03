@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "minimumJellyfinVersion": "10.9.0",
   "author": "scroftster",
-  "logo": "https://raw.githubusercontent.com/scroftster/jellyfin-plugins-manifests/main/com.scroftster.profanity-filter/icon.png",
+  "logo": "",
   "categories": [
     "Audio"
   ],
